@@ -1,5 +1,4 @@
-## Hi there 👋
-GSSOC 2024 Extended Achievements
+## GSSOC 2024 Extended Achievements
 I'm proud to be an open-source contributor in the GSSOC's 2024 Extended program. Throughout this journey, I've had the opportunity to collaborate on various exciting projects, solve challenging issues, and continuously learn and grow as a developer. 🚀🌐
 
 Badges Earned:
