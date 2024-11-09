@@ -24,3 +24,13 @@ Badges Earned:
    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
+List Of PRs:
+https://github.com/anuragverma108/SwapReads/pull/3348
+https://github.com/anuragverma108/SwapReads/pull/3270
+https://github.com/anuragverma108/SwapReads/pull/3234
+https://github.com/anuragverma108/SwapReads/pull/3224
+https://github.com/anuragverma108/SwapReads/pull/3194
+https://github.com/ayush-that/FinVeda/pull/1083
+https://github.com/swaraj-das/Collect-your-GamingTools/pull/234
+https://github.com/GSSoC24/Postman-Challenge/pull/3472
+
